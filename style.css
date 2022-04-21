@@ -1,0 +1,474 @@
+.welcome {
+    border: 70px;
+    /* text-align: center; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 3px solid white;
+    font-size: larger;
+    /* position: absolute; */
+    padding: 0px 550px;
+
+
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* font-family: 'Poppins',sans-serif; */
+
+}
+
+:root {
+    -clr: #222327;
+}
+
+.cut {
+    float: left;
+    margin: 3px 28px;
+}
+
+.cutinfo h2 {
+    margin: -26px -117px;
+    padding: 6px 7px;
+    color: white;
+    /* -family: 'Grape Nuts',font cursive; */
+}
+
+.wiki h1 {
+    text-align: center;
+    font-family: 'Beau Rivage', cursive;
+    padding: 14px 161px;
+    color: yellowgreen;
+
+}
+
+.r {
+    margin: 24px 5px;
+    font-family: 'Beau Rivage', cursive;
+    color: white;
+}
+
+.s {
+    margin: 24px 5px;
+    font-family: 'Beau Rivage', cursive;
+    color: white;
+
+}
+
+.t {
+    margin: 24px 5px;
+    font-family: 'Beau Rivage', cursive;
+
+}
+
+.u {
+    margin: 24px 5px;
+    font-family: 'Beau Rivage', cursive;
+
+}
+
+.header {
+    border: 4px solid red;
+    background-color: red;
+}
+
+.aboutlogo {
+    margin: 46px 19px;
+
+}
+
+.content {
+    padding: 70px;
+    border-color: blue;
+    border-radius: 6px;
+    /* //backg................/round-image: url(1649225034350.jpeg) ; */
+
+}
+
+#but {
+    float: left;
+}
+
+ul {
+    width: auto;
+    float: right;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+a:link,
+a:visited {
+    display: block;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: rgb(245, 6, 6);
+    border-color: blue;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    padding: 4px -3px;
+    margin: -4px -18px;
+    text-transform: uppercase;
+    text-decoration: none;
+
+
+}
+
+#sha:link,
+#shaw:visited,
+#shaw:hover {
+    background-color: rgb(11, 155, 245);
+}
+
+#mus:link,
+#mus:visited,
+#mus:hover {
+    background-color: rgb(11, 155, 245);
+}
+
+#hawa:link,
+#hawa:visited,
+#hawa:hover {
+    background-color: rgb(11, 155, 245);
+}
+
+a:hover,
+a:active {
+    background-color: #f5cbcb;
+
+}
+
+li {
+    float: left;
+    margin: -3px 30px;
+    padding: 16px;
+}
+
+.button {
+    position: relative;
+    top: 6%;
+    /* padding: 50px; */
+}
+
+
+body {
+
+    background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, 0.5)), url(istockphoto-1301482898-170667a.jpg);
+    /* opacity:90%; */
+    background-size: 100%;
+    /* background-size: 100%; */
+    /* background-color: rgb(245, 182, 182); */
+    background-attachment: fixed;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    justify-content: center;
+    color: white;
+}
+
+.container {
+    border: 2px solid red;
+    background-color: rgb(245, 6, 6);
+    padding: 43px 31px;
+    margin: 1px -117px;
+    position: fixed;
+    top: 0%;
+    width: 114%;
+    z-index: 100;
+}
+
+#cont1 {
+    font-family: sans-serif;
+}
+
+.logo {
+    padding: 103px 50px;
+    margin: -142px 10px;
+    position: absolute;
+    top: 4%;
+    left: 6%;
+
+
+}
+
+b {
+    font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+    font-family: 'Rubik Wet Paint', cursive;
+    /* position: absolute; */
+    /* padding: 60px;*/
+    margin: -4px;
+    text-align: center;
+}
+
+.types {
+    box-sizing: inherit;
+    border: 3px solid black;
+    float: left;
+    border-radius: 69px;
+    padding: 28px 2px;
+    margin: -8px 40px;
+    position: absolute;
+    flex-direction: column;
+}
+
+#apri {
+    float: left;
+    width: 48%;
+
+}
+
+p {
+    /* border: 2px solid gray; */
+    margin: 13px 40px;
+    padding: -7px 5px;
+    font-family: 'Pacifico', cursive;
+}
+
+h1 {
+    font-family: 'Rubik Moonrocks', cursive;
+    padding: 41px 480px;
+}
+
+.container1 {
+    border: 2px solid black;
+    background-color: black;
+    margin: 6px 8px;
+}
+
+.y {
+    text-align: left;
+    color: white;
+    font-family: 'Pacifico', cursive;
+}
+
+.shawarma {
+    border: 2px solid white;
+    box-sizing: border-box;
+    width: 374px;
+    height: 533px;
+    margin: 3px 52px;
+    /* background-color: white; */
+    border-radius: 10px;
+    box-shadow: border-box;
+    backdrop-filter: blur(10px);
+}
+
+#qw {
+    color: black;
+    font-weight: bold;
+}
+
+#qs {
+    color: black;
+    font-weight: bold;
+}
+
+#qa {
+    color: black;
+    font-weight: bold;
+}
+
+.shawinfo {
+    margin: 3px 4px;
+    padding: 6px 4px;
+    /* color: black; */
+}
+
+#sha {
+    margin: 3px 227px;
+    border-radius: 10px;
+}
+a:hover{
+    color: black;
+}
+
+.musakhan {
+    border: 2px solid white;
+    box-sizing: border-box;
+    width: 374px;
+    height: 534px;
+    margin: -535px 460px;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+
+}
+
+.musinfo {
+    margin: 3px 4px;
+    padding: 6px 4px;
+}
+
+#mus {
+    margin: 3px 227px;
+    border-radius: 10px;
+}
+
+.a shawinfo sha {
+    display: block;
+    font-weight: bold;
+    padding: 4px -3px;
+    margin: -4px 8px;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: blue;
+
+}
+
+.hawaiian {
+    border: 2px solid white;
+    box-sizing: border-box;
+    width: 374px;
+    height: 534px;
+    margin: -535px 873px;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+
+}
+
+.hawainfo {
+    margin: 3px 4px;
+    padding: 6px 4px;
+}
+
+#hawa {
+    margin: 3px 227px;
+    border-radius: 10px;
+}
+
+.a hawainfo hawa {
+    display: block;
+    font-weight: bold;
+    padding: 4px -3px;
+    margin: -4px 8px;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: blue;
+
+}
+
+.main {
+    margin: 123px 4px;
+}
+
+.main2 {
+    margin: 166px -3px;
+}
+
+.main3 {
+    margin: 166px -3px;
+}
+
+.container3 {
+    box-sizing: border-box;
+    border: 2px solid white;
+    background-color: white;
+    margin: 86px 442px;
+    color: black;
+}
+
+b con {
+    font-family: 'Rubik Moonrocks', cursive;
+}
+
+.coninfo {
+    padding: 75px 6px;
+}
+
+#conin {
+    font-family: 'Pacifico', cursive;
+}
+
+#contain1 {
+    border: 2px solid black;
+    background-color: black;
+    margin: 586px 8px;
+    padding: 18px 26px;
+    position: absolute;
+}
+
+#contain2 {
+    border: 2px solid black;
+    background-color: black;
+    margin: 46px 8px;
+    padding: 18px 26px;
+    position: absolute;
+}
+
+#contain3 {
+    border: 2px solid black;
+    background-color: black;
+    margin: 46px 8px;
+    padding: 18px 26px;
+    position: absolute;
+}
+
+#foot {
+    width: 1300px;
+    color: white;
+}
+
+#copy {
+    color: white;
+    text-align: left;
+    margin: 6px;
+}
+
+.register {
+    box-sizing: border-box;
+    border: 3px solid;
+    border-radius: 10px;
+    background-image: url(pexels-pablo-macedo-845808.jpg);
+    margin: 172px 234px;
+    padding: 75px 5px;
+    color: black;
+}
+
+#reg {
+    font-family: 'Lobster', cursive;
+}
+
+#name {
+    margin: 4px 5px;
+}
+
+#sub {
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px 10px;
+    border-radius:10px ;
+    box-shadow: 30px;
+}
+
+#regname {
+    /* text-align: center; */
+    margin: 37px -269px;
+}
+
+#logbut {
+    margin: 4px 364px;
+    padding: 11px 21px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+#already {
+    font-family: 'Abril Fatface', cursive;
+    /* color: whitesmoke; */
+}
+
+.signin {
+    margin: 4px 5px;
+    padding: 4px 5px;
+}
+
+/* label{
+    width: 50px;
+} */
+#nam {
+    margin-left: 16px;
+}
